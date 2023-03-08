@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1>Kathie Huynh</h1>
 
-<!--
-**kathiehyu/kathiehyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Current Organizations</h3>
+<ul>
+  <li>🐝 Georgia Tech Computer Science Undergraduate '25
+  <ul>
+    <li>concentration in Information & Internetworks and Media</li>
+  </ul>
+  </li>
+  <li>🍈 <a href="https://github.com/MelonFlesh">MelonFlesh Studios</a> Developer</li> 
+</ul>
 
-Here are some ideas to get you started:
+<h3>About Me</h3>
+<ul>
+  <li>💻 Check out my repositories for current and completed projects!</li>
+  <li>📫 Contact me: kathie@gatech.edu</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Completed and Current Courses</h3>
+  <ul>
+    <li>Intro to Computer Science (Python)</li>
+    <li>Object Oriented Programming (Java)</li>
+    <li>Data Structures and Algorithms (Java)</li>
+    <ul>
+      <li>Dijkstra's Algorithm</li>
+      <li>Minimum Spanning Tree: KST</li>
+    </ul>
+    <li>Discrete Mathematics</li>
+    <li>Computer Organization and Programming (Java, LC-3 Assembly, C)</li>
+    <li>Objects and Design (Java, Android Studio)</li>
+    <ul>
+      <li>Agile Methodologies, Software Development Cycle</li>
+      <li>Best software development practices</li>
+      <li>More Object Oriented Programming</li>
+    </ul>
+ </ul>
