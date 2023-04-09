@@ -4,7 +4,7 @@
 <ul>
   <li>🐝 Georgia Tech Computer Science Undergraduate '25
   <ul>
-    <li>concentration in Information & Internetworks and Media</li>
+    <li>concentration in Information Internetworks and Devices</li>
   </ul>
   </li>
   <li>🍈 <a href="https://github.com/MelonFlesh">MelonFlesh Studios</a> Developer</li> 
